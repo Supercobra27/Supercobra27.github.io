@@ -1,5 +1,5 @@
 ---
-title: '"Learning HDL/HVLs | VHDL"'
+title: Learning HDL/HVLs | VHDL
 date: 2024-1-24
 categories:
   - HDL
