@@ -19,7 +19,7 @@ I will link resources that I am using below for those who also want to learn:
 - Verilog and the ASIC Design Flow, Udemy course linked [here](https://www.udemy.com/course/verilog-hdl-vlsi-hardware-design-comprehensive-masterclass/).
 - For practice of Verilog, I used HDLBits linked [here](https://hdlbits.01xz.net/wiki/Main_Page).
 - For project ideas and more Verilog/VHDL, fpga4fun site linked [here](https://www.fpga4fun.com/SiteInformation.html).
-- For learning VHDL I used some videos from VHDLwhiz linked [here](VHDLwhiz.com);
+- For learning VHDL I used some videos from VHDLwhiz linked [here](https://VHDLwhiz.com);
 - My GitHub repository Erebus linked [here](https://github.com/Supercobra27/Erebus);
 
 ## Before we begin
