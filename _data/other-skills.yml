@@ -1,0 +1,7 @@
+- name: Altium Designer
+  percentage: 50
+  color:
+
+- name: Power Platform
+  percentage: 100
+  color:
