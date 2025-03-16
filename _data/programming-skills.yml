@@ -1,19 +1,19 @@
 - name: Verilog
   percentage: 50
-  color:
+  color: danger
 
 - name: C/C++
   percentage: 60
-  color:
+  color: danger
 
 - name: Java
   percentage: 80
-  color:
+  color: danger
 
 - name: Python
   percentage: 90
-  color:
+  color: danger
 
 - name: Clojure
   percentage: 20
-  color:
+  color: danger
