@@ -8,7 +8,6 @@ tags:
   - HDL
   - VHDL
   - Programming
-  - WIP
 author: Ryan
 ---
 # Introduction
