@@ -2,8 +2,14 @@
 title: SimpleRISC Processor
 date: 2025-04-24
 categories:
-tags: 
-author: Ryan
+  - HDL
+  - Programming
+tags:
+  - HDL
+  - VHDL
+  - Programming
+author:
+  - Ryan
 ---
 
 # Introduction
@@ -20,7 +26,7 @@ The ISA has multiple instruction formats which include:
 ## Implementation
 I like to design all my Verilog as separate logical modules. I started with designing registers. I chose to go for a register file approach which would prove beneficial later on in the project. 
 
-```Verilog
+```verilog
 module regFile (
 	input clk, clr, rIn, rOut, BAout, // Control Signals
 	input wire [31:0]data_in, // pass data into a register
